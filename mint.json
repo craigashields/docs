@@ -81,7 +81,13 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
-    }
+    },
+    {
+      "group": "Fynapse",
+      "openapi": {
+        "source": "https://docs-feedback-apt.s3.eu-west-2.amazonaws.com/fynapse-ingestion-test.yaml"
+      }
+    }    
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
