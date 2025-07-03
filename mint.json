@@ -29,6 +29,10 @@
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+      "name": "Developer Resources",
+      "url": "dev-resources"
     }
   ],
   "anchors": [
@@ -81,7 +85,13 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
-    }   
+    },
+    {
+      "group": "Developer Resources",
+      "pages": [
+        "dev-resources/introduction"
+      ]
+    }
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
